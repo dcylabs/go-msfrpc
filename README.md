@@ -10,6 +10,8 @@ Light Golang lib to interact with MSFRPC
 
 ## Expected output
 
-```Error  of 'auth.login':      <nil>
+```
+Error  of 'auth.login':      <nil>
 Result of 'console.create':  ??id?0?prompt?msf > ?busy?
-Error  of 'console.create':  <nil>```
+Error  of 'console.create':  <nil>
+```
